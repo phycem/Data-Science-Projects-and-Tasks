@@ -1,5 +1,5 @@
 
-# Project Title
+#Heart Disease Prediction
 
 This is the folder for Heart Disease Prediction modeling and data analysis.
 
@@ -10,6 +10,10 @@ heart_disease_production.py
 finelized model.csv where model is saved 
 
 To run the production code:
+
+Dataset should have these column names: 'age', 'trtbps', 'thalachh', 'oldpeak','sex', 'cp', 'fbs', 'restecg', 'exng', 'slp', 'caa', 'thall'
+It should be csv file , otherwise this code will be crushed.
+
 
 Download this folder. 
 please name the csv file as demo.csv
