@@ -18,5 +18,5 @@ It should be csv file , otherwise this code will be crushed.
 Download this folder. 
 please name the csv file as demo.csv
 Upload your csv file for data input. 
-run pip install -r requirements.txt in your shell
+run pip install -r requirements.txt in your shell and download all libraries in requirements.txt
 Get predictions from prediction.csv
