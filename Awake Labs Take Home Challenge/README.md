@@ -11,7 +11,7 @@ finelized model.csv where model is saved
 
 To run the production code:
 
-Dataset should have these column names: 'age', 'trtbps', 'thalachh', 'oldpeak','sex', 'cp', 'fbs', 'restecg', 'exng', 'slp', 'caa', 'thall'
+Dataset should have these column names: 'age', 'trtbps', 'thalachh', 'oldpeak','sex', 'cp', 'restecg', 'exng', 'slp', 'caa', 'thall','o2Saturation'
 It should be csv file , otherwise this code will be crushed.
 
 
