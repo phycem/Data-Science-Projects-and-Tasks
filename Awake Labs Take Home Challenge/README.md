@@ -29,3 +29,4 @@ NOTE:  I noticed the model I saved on finalized_model.sav is an old version I fo
 * I acknowledge that I only changed the code to save .sav file for the model I found with the best precision and metrics before 5 pm. 
 
 * Please use the correct_finalized_model.sav for production code. Before you do, change its name to finalized_model.sav .
+NOTE: the production code needs some fixes which I am currently working on.
