@@ -8,7 +8,7 @@ It contains
 * Heart Disease Prediction.ipynb where there are data analysis and model comparisons (with the code changed to save the new model, it is called Heart Disease Prediction_small_edit.ipynb)
 * heart_disease_production.py 
 * finalized model.csv where model is saved 
-* deploy.py for production code
+* deploy.py for production code NOTE: the production code needs some fixes to work well which I am currently working on.
 
 To run the production code:
 
