@@ -25,8 +25,7 @@ It should be csv file , otherwise this code will be crushed.
 
 
 NOTE:  I noticed the model I saved on finalized_model.sav is an old version I found in my Heart_Disease_Prediction_small_edit.ipynb .
-
-* I acknowledge that I only changed the code to save .sav file for the model I found with the best precision and metrics before 5 pm. 
+ 
 
 * Please use the correct_finalized_model.sav for production code. Before you do, change its name to finalized_model.sav .
 NOTE: the production code needs some fixes to work well which I am currently working on.
